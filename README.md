@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crafsterz
 - 👀 I’m interested in playing games and board games
-- 🌱 I’m currently learning in the 42 KL Piscine course
+- 🌱 I’m currently learning in the 42 KL Piscine course I will update my completed repository in the future
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
